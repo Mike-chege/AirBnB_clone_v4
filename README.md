@@ -41,5 +41,5 @@ EOF  all  create  destroy  help  quit  show  update
 ## Environment
 This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
 
-## AUTHORS
+## :fountain_pen: AUTHORS
 * **Michael Chege** - [@mikechege](https://github.com/Mike-chege)
