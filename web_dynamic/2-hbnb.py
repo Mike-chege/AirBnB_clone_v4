@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Implementing the Flask application
+Implementing the Flask application.
 """
 import uuid
 from flask import Flask, render_template, url_for
